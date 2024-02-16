@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Janhavi Nilesh Bajpai</h1>
-<h3 align="center">3rd year BTech Student Computer Science.</h3>
+<h3 align="center">BTech Student Computer Science.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janhavibajpai01&label=Profile%20views&color=0e75b6&style=flat" alt="janhavibajpai01" /> </p>
 
-- 🔭 I’m currently working on **Keeper App**
-
-- 🌱 I’m currently learning **Full Stack, React Js and C++**
-
-- 👯 I’m looking to collaborate on **DS/ML**
+- 🌱 I’m currently learning **  JAVA, Oracle**
 
 - 📝 I regularly write articles on [https://medium.com/@jnhvibajpai001](https://medium.com/@jnhvibajpai001)
-
-- 💬 Ask me about **Web Development, Python**
 
 - 📫 How to reach me **jnhvibajpai001@gmail.com**
 
